@@ -1,0 +1,4 @@
+# ninja log v5
+2	10	0	clean	5c293f6accf7585b
+2	518	7501487800441762	CMakeFiles/SFMLTest.dir/main.cpp.obj	b90f8555151db263
+519	902	7501487804140508	SFMLTest.exe	835ea93151b79e37
